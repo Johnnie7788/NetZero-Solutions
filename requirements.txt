@@ -1,0 +1,5 @@
+# Required dependencies for the NetZero SaaS Product
+plotly
+streamlit
+numpy
+reportlab
