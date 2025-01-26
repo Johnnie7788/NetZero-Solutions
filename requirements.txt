@@ -3,5 +3,11 @@ plotly
 streamlit
 numpy
 reportlab
+pandas
+plotly
+streamlit
+numpy
+python-pptx
+requests
+beautifulsoup4
 matplotlib
-pptx
