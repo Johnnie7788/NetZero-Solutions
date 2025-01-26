@@ -1,0 +1,21 @@
+Project_Name,Category,Current_Value,Target_Value,Progress_Status,Budget (€),Expenditure (€),CSRD_Compliance,Stakeholder_Impact,Environmental_Risks,Supply_Chain_Disruptions,Mitigation_Status,Alerts,Recommendations
+Project 1,Water Conservation,90,110,On Track,157384,128175,Non-Compliant,Low Impact,Moderate,Minimal,Implemented,None,Engage stakeholders
+Project 2,Energy Efficiency,85,106,At Risk,195415,151071,Non-Compliant,Low Impact,High,Moderate,Not Addressed,Critical Issue,Review timelines
+Project 3,Water Conservation,65,95,Completed,159769,59920,Non-Compliant,High Impact,Low,Moderate,Implemented,None,Conduct audits
+Project 4,Waste Management,50,117,Completed,150784,59645,Compliant,Low Impact,Moderate,Minimal,Planned,None,Conduct audits
+Project 5,Carbon Reduction,82,97,At Risk,86633,69255,Non-Compliant,Moderate Impact,Low,Moderate,Implemented,Critical Issue,Review timelines
+Project 6,Carbon Reduction,60,101,On Track,141811,114298,Non-Compliant,High Impact,High,Severe,Not Addressed,Critical Issue,Conduct audits
+Project 7,Waste Management,84,107,Delayed,156336,48474,Compliant,High Impact,Moderate,Severe,Planned,Review Required,Engage stakeholders
+Project 8,Waste Management,50,103,On Track,122914,82166,Compliant,Moderate Impact,High,Severe,Planned,Critical Issue,Engage stakeholders
+Project 9,Energy Efficiency,83,116,At Risk,155153,130089,Non-Compliant,High Impact,Low,Significant,Implemented,Critical Issue,Review timelines
+Project 10,Carbon Reduction,85,101,Completed,57711,30621,Compliant,High Impact,High,Moderate,Not Addressed,None,Conduct audits
+Project 11,Carbon Reduction,86,120,At Risk,129936,38722,Non-Compliant,Low Impact,Moderate,Minimal,Planned,Critical Issue,Review timelines
+Project 12,Waste Management,75,100,Completed,174985,66014,Compliant,High Impact,Moderate,Minimal,Not Addressed,None,Conduct audits
+Project 13,Water Conservation,55,93,On Track,94922,66133,Compliant,Moderate Impact,High,Minimal,Planned,Critical Issue,Review timelines
+Project 14,Carbon Reduction,76,107,On Track,140540,50865,Compliant,High Impact,Moderate,Moderate,Planned,Critical Issue,Upgrade technology
+Project 15,Waste Management,88,99,Delayed,182610,44144,Non-Compliant,Moderate Impact,Moderate,Moderate,Not Addressed,Review Required,Engage stakeholders
+Project 16,Energy Efficiency,72,101,On Track,194052,90772,Non-Compliant,Low Impact,High,Severe,Not Addressed,Review Required,Conduct audits
+Project 17,Energy Efficiency,71,90,Completed,78893,64130,Compliant,Low Impact,Moderate,Minimal,Implemented,None,Conduct audits
+Project 18,Carbon Reduction,70,117,On Track,117588,76657,Non-Compliant,Moderate Impact,Low,Severe,Implemented,Review Required,Review timelines
+Project 19,Waste Management,75,93,Completed,137416,93015,Compliant,High Impact,High,Significant,Planned,None,Conduct audits
+Project 20,Waste Management,76,90,Completed,96691,58401,Compliant,High Impact,Moderate,Moderate,Planned,None,Conduct audits
