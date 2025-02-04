@@ -12,3 +12,13 @@ requests
 beautifulsoup4
 matplotlib
 seaborn
+plotly.graph_objects 
+networkx 
+geopy.distance 
+matplotlib.pyplot 
+statsmodels.tsa.arima.model 
+keras.models 
+ keras.layers 
+tensorflow 
+scipy.spatial.distance  
+datetime 
